@@ -1,5 +1,8 @@
 * {
-  margin: 3vw;
   font-family: sans-serif;
   background-color: #C3DEE7;
+}
+
+body {
+  margin: 2vw;
 }
