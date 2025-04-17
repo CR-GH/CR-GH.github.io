@@ -11,5 +11,6 @@ body {
 
 .main_text {
   padding: 5px;
+  max-width: 700px;
 }
 
