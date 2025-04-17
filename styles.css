@@ -3,7 +3,13 @@ body {
   background-color: #C3DEE7;
 }
 
-.div_main {
-  margin: 100px;
+.main_content {
+  margin: 50px;
+  padding: 50px;
   background-color: #FFFFFF;
 }
+
+.main_text {
+  padding: 5px;
+}
+
