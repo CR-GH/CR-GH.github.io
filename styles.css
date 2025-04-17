@@ -3,6 +3,7 @@
   background-color: #C3DEE7;
 }
 
-body {
+.main {
   margin: 100px;
+  background-color: #FFFFFF;
 }
