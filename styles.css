@@ -1,9 +1,10 @@
 body {
   font-family: sans-serif;
-  background-color: #C3DEE7;
+  background-color: #B9C8CD;
 }
 
 .main_content {
+  display: flex;
   margin: 100px;
   padding: 10px;
   
@@ -17,14 +18,14 @@ body {
 }
 
 .main_decorator {
-  max-width: 250px;
-  height: 1000px;
-  font-size: 50px;
+  float: left;
   margin: 0px;
   padding-top: 30px;
   padding-bottom: 30px;
+  max-width: 300px;
+  min-height: 20em;
+  font-size: 50px;
   background-color: #CC3300;
-  float: left;
   writing-mode: vertical-rl;
 }
 
