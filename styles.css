@@ -1,6 +1,9 @@
 body {
   font-family: sans-serif;
   background-color: #B9C8CD;
+  background-image: url("test_img.png");
+  background-repeat: none;
+  background-size: cover;
 }
 
 .main_content {
