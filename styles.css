@@ -23,6 +23,11 @@ h2 {
   background-color: #FFFFFF;
 }
 
+.main_text img {
+  max-width: 500px;
+  border-style: solid;
+}
+
 .main_decorator {
   float: left;
   margin: 0px;
