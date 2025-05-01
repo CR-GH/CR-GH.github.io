@@ -32,7 +32,7 @@ h2 {
 }
 
 .main_section {
-  background-color: red;
+  overflow: auto;
 }
 
 .main_decorator {
